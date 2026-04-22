@@ -7,7 +7,7 @@ C, C++, Rust, Zig. Cette documentation se concentre sur le C++ avec les librairi
 
 Librairies disponibles :
   - EADK     : librairie principale --> affichage, clavier, temps
-  - Storage  : librairie de fichiers --> lire, ecrire, supprimer des fichiers
+  - Storage  : librairie de fichiers --> lire, ecrire, supprimer des fichiers (A récupéré sur le github officiel de Numworks)
 
   #include "eadkpp.h"  --> inclure EADK
   #include "storage.h" --> inclure Storage
