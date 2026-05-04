@@ -178,7 +178,6 @@ Detecter un appui unique (evite la repetition) :
   ok_precedent = ok_maintenant;
   --> met a jour pour le prochain tour
 
-
 --- Temps ---
 EADK::Timing::msleep(n);
   - met le programme en pause pendant n millisecondes
