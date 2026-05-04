@@ -245,7 +245,6 @@ while (1) {
   --> pause de 1ms pour ne pas surcharger le processeur
 }
 
-
 --- Variables ---
 Types de base :
   int    : nombre entier          --> int score = 0;
