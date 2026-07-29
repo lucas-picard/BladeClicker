@@ -1,4 +1,4 @@
-v
+
 ===== EADK — Documentation NumWorks =====
 
 --- Infos ---
